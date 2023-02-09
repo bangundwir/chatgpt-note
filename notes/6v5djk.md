@@ -1,0 +1,33 @@
+> Dampak negati kecanduan game mobile legend
+> 
+> Kecanduan game mobile legend dapat memiliki beberapa dampak negatif pada kehidupan seseorang, beberapa di antaranya meliputi:
+> 
+> 1.  Gangguan tidur: Kecanduan game mobile legend dapat menyebabkan seseorang bermain terlalu lama dan terus-menerus, sehingga mempengaruhi jadwal tidur mereka dan membuat mereka mengalami kurang tidur atau insomnia.
+>     
+> 2.  Interaksi sosial yang berkurang: Seseorang yang terlalu terlibat dalam game mobile legend dapat mengurangi waktu mereka untuk berinteraksi dengan orang lain, seperti keluarga dan teman-teman, dan membuat mereka kurang terhubung dengan dunia nyata.
+>     
+> 3.  Penurunan prestasi akademis: Kecanduan game mobile legend dapat mengalihkan perhatian seseorang dari tugas dan studi mereka, yang pada akhirnya dapat menurunkan prestasi akademis mereka.
+>     
+> 4.  Ketergantungan emosional: Seseorang yang terlalu terlibat dalam game mobile legend dapat menjadi sangat tergantung pada permainan dan membutuhkan stimulus dari permainan untuk memuaskan emosinya.
+>     
+> 5.  Masalah kesehatan: Kecanduan game mobile legend dapat menyebabkan seseorang duduk terlalu lama, yang dapat menyebabkan masalah kesehatan seperti sakit punggung, lelah mata, dan obesitas.
+>     
+> 
+> Dengan demikian, sangat penting untuk memantau waktu bermain dan memastikan bahwa game mobile legend tidak menjadi kecanduan yang mempengaruhi kualitas hidup seseorang.
+> 
+> Dampak negati kecanduan mobile legend bagi remaja umur 25 tahun
+> 
+> Dampak negatif kecanduan mobile legend bagi remaja usia 25 tahun dapat sama dengan dampak pada remaja lainnya, meskipun mereka mungkin lebih dewasa dan memiliki tanggung jawab lebih banyak. Beberapa dampak negatif yang mungkin terjadi meliputi:
+> 
+> 1.  Penurunan produktivitas: Kecanduan game mobile legend dapat mengalihkan perhatian remaja dari tugas dan pekerjaan mereka, yang pada akhirnya dapat menurunkan produktivitas mereka.
+>     
+> 2.  Hubungan sosial yang terganggu: Remaja yang terlalu terlibat dalam game mobile legend dapat mengurangi waktu mereka untuk berinteraksi dengan orang lain, seperti keluarga dan teman-teman, dan membuat mereka kurang terhubung dengan dunia nyata.
+>     
+> 3.  Masalah keuangan: Kecanduan game mobile legend dapat membuat remaja mengeluarkan uang untuk membeli item permainan atau memperbarui perangkat untuk memainkan permainan dengan lebih baik, yang pada akhirnya dapat menimbulkan masalah keuangan.
+>     
+> 4.  Masalah kesehatan: Remaja yang terlalu terlibat dalam game mobile legend dapat mengalami masalah kesehatan seperti sakit punggung, lelah mata, dan obesitas akibat duduk terlalu lama.
+>     
+> 5.  Stress dan tekanan: Kecanduan game mobile legend dapat membuat remaja merasa stress dan tekanan untuk mencapai tujuannya dalam permainan, yang pada akhirnya dapat mempengaruhi kesehatan mental mereka.
+>     
+> 
+> Oleh karena itu, sangat penting bagi remaja usia 25 tahun untuk memantau waktu bermain dan memastikan bahwa mobile legend tidak menjadi kecanduan yang mempengaruhi kualitas hidup mereka.

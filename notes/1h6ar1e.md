@@ -1,0 +1,3 @@
+Jelaskan tentang Psycology
+
+Psychology adalah ilmu yang mempelajari perilaku dan proses mental manusia. Ini termasuk topik seperti pemikiran, perasaan, persepsi, interaksi sosial, dan pengembangan. Psikolog berusaha untuk memahami bagaimana orang berpikir, merasakan, dan bertindak, serta bagaimana faktor-faktor seperti perkembangan, lingkungan, dan genetika mempengaruhi perilaku. Ada berbagai cabang dalam psikologi, termasuk psikologi klinis, sosial, perkembangan, dan perilaku.
