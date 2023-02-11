@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Mengambil input commit message
+echo -n "Enter commit message: "
+read message
+
+# Melakukan git add *
+git add *
+
+# Melakukan git commit dengan pesan commit yang diambil dari input
+git commit -m "$message"
+
+# Melakukan git push
+git push
