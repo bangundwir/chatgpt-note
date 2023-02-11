@@ -86,3 +86,7 @@
 [2023-02-11][04:26:57][chatgpt::app::gpt][INFO] get_download_list: chat.download.json
 [2023-02-11][04:26:58][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
 [2023-02-11][04:26:58][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-11][04:31:39][chatgpt::app::gpt][INFO] download_list: chat.download.json
+[2023-02-11][04:31:39][chatgpt::app::gpt][INFO] get_download_list: chat.download.json
+[2023-02-11][04:31:41][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-11][04:31:41][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared

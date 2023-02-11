@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo "Enter your commit message: "
+read commitMessage
+
+# Add all changes to the stage
+git add *
+
+# Commit the changes with the specified message
+git commit -m "$commitMessage"
+
+# Push the changes to the remote repository
+git push
+
+echo "Changes successfully pushed to the Github repository."
+
