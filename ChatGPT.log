@@ -261,3 +261,17 @@
 [2023-02-12][04:38:28][attohttpc][DEBUG] creating a length body reader
 [2023-02-12][04:38:28][attohttpc][DEBUG] creating gzip decoder
 [2023-02-12][04:38:28][attohttpc][DEBUG] status code 200
+[2023-02-12][06:28:02][chatgpt::app::gpt][INFO] download_list: chat.notes.json
+[2023-02-12][06:28:02][chatgpt::app::gpt][INFO] get_download_list: chat.notes.json
+[2023-02-12][06:28:03][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-12][06:28:03][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-12][06:28:06][chatgpt::app::gpt][INFO] download_list: chat.download.json
+[2023-02-12][06:28:06][chatgpt::app::gpt][INFO] get_download_list: chat.download.json
+[2023-02-12][06:28:07][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-12][06:28:07][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-12][06:28:11][chatgpt::app::gpt][INFO] download_list: chat.download.json
+[2023-02-12][06:28:11][chatgpt::app::gpt][INFO] get_download_list: chat.download.json
+[2023-02-12][06:28:12][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-12][06:28:12][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-12][06:45:56][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-12][06:45:56][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
