@@ -1,312 +1,498 @@
-[2023-02-12][14:47:12][chatgpt::app::setup][INFO] stepup
-[2023-02-12][14:47:12][chatgpt::app::setup][INFO] global_shortcut: ``
-[2023-02-12][14:47:12][chatgpt::app::setup][ERROR] global_shortcut_parse_error: [AcceleratorParseError]: Unexpected empty token while parsing accelerator
-[2023-02-12][14:47:12][chatgpt::app::setup][INFO] run_check_update
-[2023-02-12][14:47:12][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
-[2023-02-12][14:47:12][chatgpt::app::setup][INFO] stepup_tray
-[2023-02-12][14:47:12][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
-[2023-02-12][14:47:12][attohttpc][DEBUG] trying to connect to lencx.github.io:443
-[2023-02-12][14:47:12][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
-[2023-02-12][14:47:12][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 30ms
-[2023-02-12][14:47:12][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
-[2023-02-12][14:47:12][attohttpc][DEBUG] creating a length body reader
-[2023-02-12][14:47:12][attohttpc][DEBUG] creating gzip decoder
-[2023-02-12][14:47:12][attohttpc][DEBUG] status code 200
-[2023-02-12][14:55:43][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][14:55:43][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][14:56:53][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][14:56:53][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][14:57:27][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][14:57:27][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][14:58:36][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][14:58:36][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:01:05][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:01:05][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:02:00][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:02:00][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:03:08][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:03:08][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:04:49][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:04:49][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:04:50][chatgpt::app::gpt][INFO] download_list: chat.notes.json
-[2023-02-12][15:04:50][chatgpt::app::gpt][INFO] get_download_list: chat.notes.json
-[2023-02-12][15:04:51][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:04:51][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:04:54][chatgpt::app::gpt][INFO] download_list: chat.download.json
-[2023-02-12][15:04:54][chatgpt::app::gpt][INFO] get_download_list: chat.download.json
-[2023-02-12][15:04:57][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:04:57][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:05:03][chatgpt::app::gpt][INFO] download_list: chat.download.json
-[2023-02-12][15:05:03][chatgpt::app::gpt][INFO] get_download_list: chat.download.json
-[2023-02-12][15:05:04][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:05:04][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:12:29][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:12:29][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:12:51][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:12:51][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:15:54][chatgpt::app::gpt][INFO] download_list: chat.notes.json
-[2023-02-12][15:15:54][chatgpt::app::gpt][INFO] get_download_list: chat.notes.json
-[2023-02-12][15:15:55][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:15:55][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:15:59][chatgpt::app::setup][INFO] stepup
-[2023-02-12][15:15:59][chatgpt::app::setup][INFO] global_shortcut: ``
-[2023-02-12][15:15:59][chatgpt::app::setup][INFO] stepup_tray
-[2023-02-12][15:15:59][chatgpt::app::setup][ERROR] global_shortcut_parse_error: [AcceleratorParseError]: Unexpected empty token while parsing accelerator
-[2023-02-12][15:15:59][chatgpt::app::setup][INFO] run_check_update
-[2023-02-12][15:15:59][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
-[2023-02-12][15:15:59][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
-[2023-02-12][15:15:59][attohttpc][DEBUG] trying to connect to lencx.github.io:443
-[2023-02-12][15:15:59][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
-[2023-02-12][15:15:59][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 26ms
-[2023-02-12][15:15:59][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
-[2023-02-12][15:15:59][attohttpc][DEBUG] creating a length body reader
-[2023-02-12][15:15:59][attohttpc][DEBUG] creating gzip decoder
-[2023-02-12][15:15:59][attohttpc][DEBUG] status code 200
-[2023-02-12][15:17:54][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:17:54][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:18:49][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:18:49][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:19:17][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:19:17][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:22:45][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:22:45][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:23:17][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:23:17][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:25:08][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:25:08][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:25:18][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:25:18][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:54:15][chatgpt::app::setup][INFO] stepup
-[2023-02-12][15:54:15][chatgpt::app::setup][INFO] global_shortcut: ``
-[2023-02-12][15:54:15][chatgpt::app::setup][INFO] stepup_tray
-[2023-02-12][15:54:15][chatgpt::app::setup][ERROR] global_shortcut_parse_error: [AcceleratorParseError]: Unexpected empty token while parsing accelerator
-[2023-02-12][15:54:15][chatgpt::app::setup][INFO] run_check_update
-[2023-02-12][15:54:15][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
-[2023-02-12][15:54:15][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
-[2023-02-12][15:54:15][attohttpc][DEBUG] trying to connect to lencx.github.io:443
-[2023-02-12][15:54:15][attohttpc][DEBUG] trying to connect to 185.199.111.153:443
-[2023-02-12][15:54:15][attohttpc][DEBUG] successfully connected to 185.199.111.153:443, took 35ms
-[2023-02-12][15:54:15][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
-[2023-02-12][15:54:15][attohttpc][DEBUG] creating a length body reader
-[2023-02-12][15:54:15][attohttpc][DEBUG] creating gzip decoder
-[2023-02-12][15:54:15][attohttpc][DEBUG] status code 200
-[2023-02-12][15:57:07][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:57:07][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:59:29][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:59:29][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][15:59:41][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][15:59:41][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][16:02:26][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][16:02:26][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][16:53:58][chatgpt::app::gpt][INFO] download_list: chat.notes.json
-[2023-02-12][16:53:58][chatgpt::app::gpt][INFO] get_download_list: chat.notes.json
-[2023-02-12][16:53:59][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][16:53:59][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][16:54:02][chatgpt::app::gpt][INFO] download_list: chat.download.json
-[2023-02-12][16:54:02][chatgpt::app::gpt][INFO] get_download_list: chat.download.json
-[2023-02-12][16:54:03][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][16:54:03][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][16:54:09][chatgpt::app::gpt][INFO] download_list: chat.download.json
-[2023-02-12][16:54:09][chatgpt::app::gpt][INFO] get_download_list: chat.download.json
-[2023-02-12][16:54:10][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][16:54:10][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][17:03:11][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][17:03:11][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][17:03:27][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-12][17:03:27][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-12][17:35:25][chatgpt::app::setup][INFO] stepup
-[2023-02-12][17:35:25][chatgpt::app::setup][INFO] global_shortcut: ``
-[2023-02-12][17:35:25][chatgpt::app::setup][INFO] stepup_tray
-[2023-02-12][17:35:25][chatgpt::app::setup][ERROR] global_shortcut_parse_error: [AcceleratorParseError]: Unexpected empty token while parsing accelerator
-[2023-02-12][17:35:25][chatgpt::app::setup][INFO] run_check_update
-[2023-02-12][17:35:25][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
-[2023-02-12][17:35:25][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
-[2023-02-12][17:35:25][attohttpc][DEBUG] trying to connect to lencx.github.io:443
-[2023-02-12][17:35:25][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
-[2023-02-12][17:35:25][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 31ms
-[2023-02-12][17:35:26][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
-[2023-02-12][17:35:26][attohttpc][DEBUG] creating a length body reader
-[2023-02-12][17:35:26][attohttpc][DEBUG] creating gzip decoder
-[2023-02-12][17:35:26][attohttpc][DEBUG] status code 200
-[2023-02-12][17:51:17][chatgpt::app::setup][INFO] stepup
-[2023-02-12][17:51:17][chatgpt::app::setup][INFO] global_shortcut: ``
-[2023-02-12][17:51:17][chatgpt::app::setup][INFO] stepup_tray
-[2023-02-12][17:51:17][chatgpt::app::setup][ERROR] global_shortcut_parse_error: [AcceleratorParseError]: Unexpected empty token while parsing accelerator
-[2023-02-12][17:51:17][chatgpt::app::setup][INFO] run_check_update
-[2023-02-12][17:51:17][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
-[2023-02-12][17:51:17][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
-[2023-02-12][17:51:17][attohttpc][DEBUG] trying to connect to lencx.github.io:443
-[2023-02-12][17:51:17][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
-[2023-02-12][17:51:17][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 27ms
-[2023-02-12][17:51:18][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
-[2023-02-12][17:51:18][attohttpc][DEBUG] creating a length body reader
-[2023-02-12][17:51:18][attohttpc][DEBUG] creating gzip decoder
-[2023-02-12][17:51:18][attohttpc][DEBUG] status code 200
-[2023-02-13][02:29:43][chatgpt::app::setup][INFO] stepup
-[2023-02-13][02:29:43][chatgpt::app::setup][INFO] global_shortcut: ``
-[2023-02-13][02:29:43][chatgpt::app::setup][ERROR] global_shortcut_parse_error: [AcceleratorParseError]: Unexpected empty token while parsing accelerator
-[2023-02-13][02:29:43][chatgpt::app::setup][INFO] run_check_update
-[2023-02-13][02:29:43][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
-[2023-02-13][02:29:43][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
-[2023-02-13][02:29:43][chatgpt::app::setup][INFO] stepup_tray
-[2023-02-13][02:29:43][attohttpc][DEBUG] trying to connect to lencx.github.io:443
-[2023-02-13][02:29:43][attohttpc][DEBUG] trying to connect to 185.199.109.153:443
-[2023-02-13][02:29:43][attohttpc][DEBUG] successfully connected to 185.199.109.153:443, took 84ms
-[2023-02-13][02:29:44][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
-[2023-02-13][02:29:44][attohttpc][DEBUG] creating a length body reader
-[2023-02-13][02:29:44][attohttpc][DEBUG] creating gzip decoder
-[2023-02-13][02:29:44][attohttpc][DEBUG] status code 200
-[2023-02-13][02:57:15][chatgpt::app::gpt][INFO] download_list: chat.notes.json
-[2023-02-13][02:57:15][chatgpt::app::gpt][INFO] get_download_list: chat.notes.json
-[2023-02-13][03:43:09][chatgpt::app::gpt][INFO] download_list: chat.notes.json
-[2023-02-13][03:43:09][chatgpt::app::gpt][INFO] get_download_list: chat.notes.json
-[2023-02-13][03:43:10][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][03:43:10][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][04:38:54][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][04:38:54][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][04:39:25][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][04:39:25][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][04:39:36][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][04:39:36][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][04:40:38][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][04:40:38][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][04:41:15][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][04:41:15][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][04:41:40][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][04:41:40][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][04:43:00][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][04:43:00][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][04:44:01][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][04:44:01][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][04:44:33][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][04:44:33][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][04:53:02][chatgpt::app::gpt][INFO] download_list: chat.notes.json
-[2023-02-13][04:53:02][chatgpt::app::gpt][INFO] get_download_list: chat.notes.json
-[2023-02-13][04:53:03][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][04:53:03][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:05:38][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:05:38][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:06:24][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:06:24][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:06:30][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:06:30][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:09:24][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:09:24][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:09:45][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:09:45][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:10:09][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:10:09][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:10:30][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:10:30][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:11:12][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:11:12][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:13:51][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:13:51][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:22:11][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:22:11][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:22:28][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:22:28][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:23:18][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:23:18][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:23:51][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:23:51][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:24:32][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:24:32][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:25:12][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:25:12][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:27:12][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:27:12][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:29:10][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:29:10][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:40:33][chatgpt::app::gpt][INFO] download_list: chat.notes.json
-[2023-02-13][05:40:33][chatgpt::app::gpt][INFO] get_download_list: chat.notes.json
-[2023-02-13][05:40:34][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:40:34][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:40:37][chatgpt::app::gpt][INFO] download_list: chat.download.json
-[2023-02-13][05:40:37][chatgpt::app::gpt][INFO] get_download_list: chat.download.json
-[2023-02-13][05:40:38][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:40:38][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:40:43][chatgpt::app::gpt][INFO] download_list: chat.download.json
-[2023-02-13][05:40:43][chatgpt::app::gpt][INFO] get_download_list: chat.download.json
-[2023-02-13][05:40:44][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:40:44][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:47:34][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:47:34][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:54:16][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:54:16][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:54:29][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:54:29][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:56:13][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:56:13][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][05:56:30][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][05:56:30][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][06:12:44][chatgpt::app::gpt][INFO] download_list: chat.notes.json
-[2023-02-13][06:12:44][chatgpt::app::gpt][INFO] get_download_list: chat.notes.json
-[2023-02-13][06:12:45][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][06:12:45][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][06:12:51][chatgpt::app::gpt][INFO] download_list: chat.download.json
-[2023-02-13][06:12:51][chatgpt::app::gpt][INFO] get_download_list: chat.download.json
-[2023-02-13][06:12:55][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][06:12:55][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][06:23:12][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][06:23:12][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][06:23:39][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][06:23:39][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][07:00:19][chatgpt::app::setup][INFO] stepup
-[2023-02-13][07:00:19][chatgpt::app::setup][INFO] global_shortcut: ``
-[2023-02-13][07:00:19][chatgpt::app::setup][INFO] stepup_tray
-[2023-02-13][07:00:19][chatgpt::app::setup][ERROR] global_shortcut_parse_error: [AcceleratorParseError]: Unexpected empty token while parsing accelerator
-[2023-02-13][07:00:19][chatgpt::app::setup][INFO] run_check_update
-[2023-02-13][07:00:19][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
-[2023-02-13][07:00:19][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
-[2023-02-13][07:00:19][attohttpc][DEBUG] trying to connect to lencx.github.io:443
-[2023-02-13][07:00:19][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
-[2023-02-13][07:00:19][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 31ms
-[2023-02-13][07:00:20][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
-[2023-02-13][07:00:20][attohttpc][DEBUG] creating a length body reader
-[2023-02-13][07:00:20][attohttpc][DEBUG] creating gzip decoder
-[2023-02-13][07:00:20][attohttpc][DEBUG] status code 200
-[2023-02-13][07:00:43][chatgpt::app::setup][INFO] stepup
-[2023-02-13][07:00:43][chatgpt::app::setup][INFO] global_shortcut: ``
-[2023-02-13][07:00:43][chatgpt::app::setup][INFO] stepup_tray
-[2023-02-13][07:00:43][chatgpt::app::setup][ERROR] global_shortcut_parse_error: [AcceleratorParseError]: Unexpected empty token while parsing accelerator
-[2023-02-13][07:00:43][chatgpt::app::setup][INFO] run_check_update
-[2023-02-13][07:00:43][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
-[2023-02-13][07:00:43][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
-[2023-02-13][07:00:43][attohttpc][DEBUG] trying to connect to lencx.github.io:443
-[2023-02-13][07:00:43][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
-[2023-02-13][07:00:43][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 28ms
-[2023-02-13][07:00:43][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
-[2023-02-13][07:00:43][attohttpc][DEBUG] creating a length body reader
-[2023-02-13][07:00:43][attohttpc][DEBUG] creating gzip decoder
-[2023-02-13][07:00:43][attohttpc][DEBUG] status code 200
-[2023-02-13][18:44:31][chatgpt::app::setup][INFO] stepup
-[2023-02-13][18:44:31][chatgpt::app::setup][INFO] global_shortcut: ``
-[2023-02-13][18:44:31][chatgpt::app::setup][INFO] stepup_tray
-[2023-02-13][18:44:31][chatgpt::app::setup][ERROR] global_shortcut_parse_error: [AcceleratorParseError]: Unexpected empty token while parsing accelerator
-[2023-02-13][18:44:31][chatgpt::app::setup][INFO] run_check_update
-[2023-02-13][18:44:31][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
-[2023-02-13][18:44:31][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
-[2023-02-13][18:44:31][attohttpc][DEBUG] trying to connect to lencx.github.io:443
-[2023-02-13][18:44:31][attohttpc][DEBUG] trying to connect to 185.199.110.153:443
-[2023-02-13][18:44:31][attohttpc][DEBUG] successfully connected to 185.199.110.153:443, took 30ms
-[2023-02-13][18:44:31][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
-[2023-02-13][18:44:31][attohttpc][DEBUG] creating a length body reader
-[2023-02-13][18:44:31][attohttpc][DEBUG] creating gzip decoder
-[2023-02-13][18:44:31][attohttpc][DEBUG] status code 200
-[2023-02-13][18:48:06][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][18:48:06][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][18:49:33][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][18:49:33][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][18:56:28][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][18:56:28][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][18:57:18][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][18:57:18][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][18:58:04][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][18:58:04][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][18:59:16][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][18:59:16][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][18:59:20][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][18:59:20][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
-[2023-02-13][19:00:17][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
-[2023-02-13][19:00:17][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-17][05:40:38][chatgpt::app::setup][INFO] stepup
+[2023-02-17][05:40:38][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-17][05:40:38][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-17][05:40:38][chatgpt::app::setup][INFO] run_check_update
+[2023-02-17][05:40:38][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-17][05:40:38][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-17][05:40:38][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-17][05:40:38][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-17][05:40:38][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 35ms
+[2023-02-17][05:40:38][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-17][05:40:38][attohttpc][DEBUG] creating a length body reader
+[2023-02-17][05:40:38][attohttpc][DEBUG] creating gzip decoder
+[2023-02-17][05:40:38][attohttpc][DEBUG] status code 200
+[2023-02-17][05:41:07][chatgpt::app::setup][INFO] stepup
+[2023-02-17][05:41:07][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-17][05:41:07][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-17][05:41:07][chatgpt::app::setup][INFO] run_check_update
+[2023-02-17][05:41:07][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-17][05:41:07][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-17][05:41:07][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-17][05:41:07][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-17][05:41:07][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 68ms
+[2023-02-17][05:41:08][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-17][05:41:08][attohttpc][DEBUG] creating a length body reader
+[2023-02-17][05:41:08][attohttpc][DEBUG] creating gzip decoder
+[2023-02-17][05:41:08][attohttpc][DEBUG] status code 200
+[2023-02-17][06:28:46][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-17][06:28:47][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-17][06:49:27][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-17][06:49:27][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-17][06:52:51][chatgpt::app::setup][INFO] stepup
+[2023-02-17][06:52:51][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-17][06:52:51][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-17][06:52:51][chatgpt::app::setup][INFO] run_check_update
+[2023-02-17][06:52:51][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-17][06:52:51][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-17][06:52:51][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-17][06:52:51][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-17][06:52:51][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 28ms
+[2023-02-17][06:52:52][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-17][06:52:52][attohttpc][DEBUG] creating a length body reader
+[2023-02-17][06:52:52][attohttpc][DEBUG] creating gzip decoder
+[2023-02-17][06:52:52][attohttpc][DEBUG] status code 200
+[2023-02-17][06:53:16][chatgpt::app::setup][INFO] stepup
+[2023-02-17][06:53:16][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-17][06:53:16][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-17][06:53:16][chatgpt::app::setup][INFO] run_check_update
+[2023-02-17][06:53:16][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-17][06:53:16][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-17][06:53:16][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-17][06:53:16][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-17][06:53:16][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 29ms
+[2023-02-17][06:53:17][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-17][06:53:17][attohttpc][DEBUG] creating a length body reader
+[2023-02-17][06:53:17][attohttpc][DEBUG] creating gzip decoder
+[2023-02-17][06:53:17][attohttpc][DEBUG] status code 200
+[2023-02-17][06:53:25][chatgpt::app::setup][INFO] stepup
+[2023-02-17][06:53:25][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-17][06:53:25][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-17][06:53:25][chatgpt::app::setup][INFO] run_check_update
+[2023-02-17][06:53:25][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-17][06:53:25][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-17][06:53:25][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-17][06:53:25][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-17][06:53:25][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 28ms
+[2023-02-17][06:53:25][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-17][06:53:25][attohttpc][DEBUG] creating a length body reader
+[2023-02-17][06:53:25][attohttpc][DEBUG] creating gzip decoder
+[2023-02-17][06:53:25][attohttpc][DEBUG] status code 200
+[2023-02-17][06:53:31][chatgpt::app::setup][INFO] stepup
+[2023-02-17][06:53:31][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-17][06:53:31][chatgpt::app::setup][INFO] run_check_update
+[2023-02-17][06:53:31][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-17][06:53:31][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-17][06:53:31][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-17][06:53:31][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-17][06:53:31][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-17][06:53:31][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 39ms
+[2023-02-17][06:53:31][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-17][06:53:31][attohttpc][DEBUG] creating a length body reader
+[2023-02-17][06:53:31][attohttpc][DEBUG] creating gzip decoder
+[2023-02-17][06:53:31][attohttpc][DEBUG] status code 200
+[2023-02-17][06:53:39][chatgpt::utils][INFO] run_check_update: silent=false has_msg=Some(true)
+[2023-02-17][06:53:39][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-17][06:53:39][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-17][06:53:39][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 25ms
+[2023-02-17][06:53:39][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-17][06:53:39][attohttpc][DEBUG] creating a length body reader
+[2023-02-17][06:53:39][attohttpc][DEBUG] creating gzip decoder
+[2023-02-17][06:53:39][attohttpc][DEBUG] status code 200
+[2023-02-17][06:53:40][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-17][06:53:40][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-17][06:53:43][chatgpt::app::setup][INFO] stepup
+[2023-02-17][06:53:43][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-17][06:53:43][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-17][06:53:43][chatgpt::app::setup][INFO] run_check_update
+[2023-02-17][06:53:43][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-17][06:53:43][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-17][06:53:43][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-17][06:53:43][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-17][06:53:43][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 26ms
+[2023-02-17][06:53:44][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-17][06:53:44][attohttpc][DEBUG] creating a length body reader
+[2023-02-17][06:53:44][attohttpc][DEBUG] creating gzip decoder
+[2023-02-17][06:53:44][attohttpc][DEBUG] status code 200
+[2023-02-17][06:54:02][chatgpt::app::setup][INFO] stepup
+[2023-02-17][06:54:02][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-17][06:54:02][chatgpt::app::setup][INFO] run_check_update
+[2023-02-17][06:54:02][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-17][06:54:02][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-17][06:54:02][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-17][06:54:02][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-17][06:54:02][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-17][06:54:02][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 27ms
+[2023-02-17][06:54:03][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-17][06:54:03][attohttpc][DEBUG] creating a length body reader
+[2023-02-17][06:54:03][attohttpc][DEBUG] creating gzip decoder
+[2023-02-17][06:54:03][attohttpc][DEBUG] status code 200
+[2023-02-17][07:06:09][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-17][07:06:09][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-17][07:06:21][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-17][07:06:21][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-17][07:06:33][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-17][07:06:33][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-18][04:36:55][chatgpt::app::setup][INFO] stepup
+[2023-02-18][04:36:55][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-18][04:36:55][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-18][04:36:55][chatgpt::app::setup][INFO] run_check_update
+[2023-02-18][04:36:55][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-18][04:36:55][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-18][04:36:55][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-18][04:36:55][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-18][04:36:55][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 29ms
+[2023-02-18][04:36:56][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-18][04:36:56][attohttpc][DEBUG] creating a length body reader
+[2023-02-18][04:36:56][attohttpc][DEBUG] creating gzip decoder
+[2023-02-18][04:36:56][attohttpc][DEBUG] status code 200
+[2023-02-18][05:22:55][chatgpt::app::setup][INFO] stepup
+[2023-02-18][05:22:55][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-18][05:22:55][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-18][05:22:55][chatgpt::app::setup][INFO] run_check_update
+[2023-02-18][05:22:55][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-18][05:22:55][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-18][05:22:55][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-18][05:22:55][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-18][05:22:55][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 25ms
+[2023-02-18][05:22:55][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-18][05:22:55][attohttpc][DEBUG] creating a length body reader
+[2023-02-18][05:22:55][attohttpc][DEBUG] creating gzip decoder
+[2023-02-18][05:22:55][attohttpc][DEBUG] status code 200
+[2023-02-18][06:38:12][chatgpt::app::setup][INFO] stepup
+[2023-02-18][06:38:12][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-18][06:38:12][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-18][06:38:12][chatgpt::app::setup][INFO] run_check_update
+[2023-02-18][06:38:12][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-18][06:38:12][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-18][06:38:12][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-18][06:38:12][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-18][06:38:12][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 26ms
+[2023-02-18][06:38:12][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-18][06:38:12][attohttpc][DEBUG] creating a length body reader
+[2023-02-18][06:38:12][attohttpc][DEBUG] creating gzip decoder
+[2023-02-18][06:38:12][attohttpc][DEBUG] status code 200
+[2023-02-18][17:47:06][chatgpt::app::setup][INFO] stepup
+[2023-02-18][17:47:06][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-18][17:47:06][chatgpt::app::setup][INFO] run_check_update
+[2023-02-18][17:47:06][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-18][17:47:06][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-18][17:47:06][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-18][17:47:06][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-18][17:47:06][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-18][17:47:06][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 25ms
+[2023-02-18][17:47:07][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-18][17:47:07][attohttpc][DEBUG] creating a length body reader
+[2023-02-18][17:47:07][attohttpc][DEBUG] creating gzip decoder
+[2023-02-18][17:47:07][attohttpc][DEBUG] status code 200
+[2023-02-20][04:26:16][chatgpt::app::setup][INFO] stepup
+[2023-02-20][04:26:16][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-20][04:26:16][chatgpt::app::setup][INFO] run_check_update
+[2023-02-20][04:26:16][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-20][04:26:16][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-20][04:26:16][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-20][04:26:16][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-20][04:26:16][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-20][04:26:16][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 27ms
+[2023-02-20][04:26:16][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-20][04:26:16][attohttpc][DEBUG] creating a length body reader
+[2023-02-20][04:26:16][attohttpc][DEBUG] creating gzip decoder
+[2023-02-20][04:26:16][attohttpc][DEBUG] status code 200
+[2023-02-20][09:52:38][chatgpt::app::setup][INFO] stepup
+[2023-02-20][09:52:38][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-20][09:52:38][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-20][09:52:38][chatgpt::app::setup][INFO] run_check_update
+[2023-02-20][09:52:38][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-20][09:52:38][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-20][09:52:38][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-20][09:52:38][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-20][09:52:38][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 26ms
+[2023-02-20][09:52:39][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-20][09:52:39][attohttpc][DEBUG] creating a length body reader
+[2023-02-20][09:52:39][attohttpc][DEBUG] creating gzip decoder
+[2023-02-20][09:52:39][attohttpc][DEBUG] status code 200
+[2023-02-20][09:57:12][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-20][09:57:12][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-20][09:57:59][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-20][09:57:59][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-20][10:19:15][chatgpt::app::gpt][INFO] download_list: chat.notes.json
+[2023-02-20][10:19:15][chatgpt::app::gpt][INFO] get_download_list: chat.notes.json
+[2023-02-20][10:19:16][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-20][10:19:16][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-20][10:19:21][chatgpt::app::gpt][INFO] download_list: chat.download.json
+[2023-02-20][10:19:21][chatgpt::app::gpt][INFO] get_download_list: chat.download.json
+[2023-02-20][10:19:22][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-20][10:19:22][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-20][10:19:30][chatgpt::app::gpt][INFO] download_list: chat.download.json
+[2023-02-20][10:19:30][chatgpt::app::gpt][INFO] get_download_list: chat.download.json
+[2023-02-20][10:19:31][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-20][10:19:31][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-20][17:53:23][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-20][17:53:23][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-20][17:55:46][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-20][17:55:46][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-21][05:23:41][chatgpt::app::setup][INFO] stepup
+[2023-02-21][05:23:41][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][05:23:41][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][05:23:41][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][05:23:41][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][05:23:41][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][05:23:41][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][05:23:41][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-21][05:23:41][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 26ms
+[2023-02-21][05:23:42][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][05:23:42][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][05:23:42][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][05:23:42][attohttpc][DEBUG] status code 200
+[2023-02-21][06:15:28][chatgpt::app::setup][INFO] stepup
+[2023-02-21][06:15:28][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][06:15:28][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][06:15:28][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][06:15:28][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][06:15:28][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][06:15:28][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][06:15:28][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-21][06:15:28][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 31ms
+[2023-02-21][06:15:28][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][06:15:28][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][06:15:28][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][06:15:28][attohttpc][DEBUG] status code 200
+[2023-02-21][06:18:11][chatgpt::utils][INFO] open_file: C:\Users\hendr\.chatgpt
+[2023-02-21][06:18:17][chatgpt::app::setup][INFO] stepup
+[2023-02-21][06:18:17][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][06:18:17][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][06:18:17][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][06:18:17][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][06:18:17][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][06:18:17][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][06:18:17][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-21][06:18:17][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 51ms
+[2023-02-21][06:18:17][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][06:18:17][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][06:18:17][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][06:18:17][attohttpc][DEBUG] status code 200
+[2023-02-21][09:18:21][chatgpt::app::setup][INFO] stepup
+[2023-02-21][09:18:21][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][09:18:21][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][09:18:21][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][09:18:21][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][09:18:21][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][09:18:21][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][09:18:21][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-21][09:18:21][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 26ms
+[2023-02-21][09:18:22][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][09:18:22][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][09:18:22][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][09:18:22][attohttpc][DEBUG] status code 200
+[2023-02-21][09:18:31][chatgpt::app::setup][INFO] stepup
+[2023-02-21][09:18:31][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][09:18:31][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][09:18:31][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][09:18:31][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][09:18:31][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][09:18:31][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][09:18:31][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-21][09:18:31][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 25ms
+[2023-02-21][09:18:31][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][09:18:31][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][09:18:31][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][09:18:31][attohttpc][DEBUG] status code 200
+[2023-02-21][09:18:40][chatgpt::app::setup][INFO] stepup
+[2023-02-21][09:18:40][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][09:18:40][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][09:18:40][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][09:18:40][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][09:18:40][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][09:18:40][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][09:18:40][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-21][09:18:40][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 26ms
+[2023-02-21][09:18:40][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][09:18:40][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][09:18:40][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][09:18:40][attohttpc][DEBUG] status code 200
+[2023-02-21][09:19:23][chatgpt::app::setup][INFO] stepup
+[2023-02-21][09:19:23][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][09:19:23][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][09:19:23][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][09:19:23][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][09:19:23][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][09:19:23][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][09:19:23][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-21][09:19:23][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 27ms
+[2023-02-21][09:19:23][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][09:19:23][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][09:19:23][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][09:19:23][attohttpc][DEBUG] status code 200
+[2023-02-21][09:19:32][chatgpt::app::setup][INFO] stepup
+[2023-02-21][09:19:32][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][09:19:32][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][09:19:32][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][09:19:32][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][09:19:32][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][09:19:32][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][09:19:32][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-21][09:19:32][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 29ms
+[2023-02-21][09:19:33][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][09:19:33][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][09:19:33][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][09:19:33][attohttpc][DEBUG] status code 200
+[2023-02-21][09:20:20][chatgpt::app::setup][INFO] stepup
+[2023-02-21][09:20:20][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][09:20:20][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][09:20:20][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][09:20:20][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][09:20:20][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][09:20:20][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][09:20:20][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-21][09:20:20][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 25ms
+[2023-02-21][09:20:21][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][09:20:21][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][09:20:21][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][09:20:21][attohttpc][DEBUG] status code 200
+[2023-02-21][09:21:10][chatgpt::app::setup][INFO] stepup
+[2023-02-21][09:21:10][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][09:21:10][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][09:21:10][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][09:21:10][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][09:21:10][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][09:21:10][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][09:21:10][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-21][09:21:10][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 26ms
+[2023-02-21][09:21:10][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][09:21:10][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][09:21:10][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][09:21:10][attohttpc][DEBUG] status code 200
+[2023-02-21][09:21:41][chatgpt::app::setup][INFO] stepup
+[2023-02-21][09:21:41][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][09:21:41][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][09:21:41][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][09:21:41][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][09:21:41][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][09:21:41][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][09:21:41][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-21][09:21:41][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 25ms
+[2023-02-21][09:21:42][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][09:21:42][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][09:21:42][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][09:21:42][attohttpc][DEBUG] status code 200
+[2023-02-21][09:22:48][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-21][09:22:48][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-21][09:22:49][chatgpt::app::setup][INFO] stepup
+[2023-02-21][09:22:49][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][09:22:49][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][09:22:49][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][09:22:49][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][09:22:49][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][09:22:49][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][09:22:49][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-21][09:22:49][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 42ms
+[2023-02-21][09:22:49][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][09:22:49][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][09:22:49][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][09:22:49][attohttpc][DEBUG] status code 200
+[2023-02-21][09:23:03][chatgpt::app::setup][INFO] stepup
+[2023-02-21][09:23:03][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][09:23:03][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][09:23:03][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][09:23:03][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][09:23:03][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][09:23:03][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][09:23:03][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-21][09:23:03][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 38ms
+[2023-02-21][09:23:03][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][09:23:03][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][09:23:03][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][09:23:03][attohttpc][DEBUG] status code 200
+[2023-02-21][09:28:19][chatgpt::app::setup][INFO] stepup
+[2023-02-21][09:28:19][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][09:28:19][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][09:28:19][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][09:28:19][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][09:28:19][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][09:28:19][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][09:28:19][attohttpc][DEBUG] trying to connect to 185.199.108.153:443
+[2023-02-21][09:28:19][attohttpc][DEBUG] successfully connected to 185.199.108.153:443, took 25ms
+[2023-02-21][09:28:20][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][09:28:20][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][09:28:20][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][09:28:20][attohttpc][DEBUG] status code 200
+[2023-02-21][10:45:35][chatgpt::app::setup][INFO] stepup
+[2023-02-21][10:45:35][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][10:45:35][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][10:45:35][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][10:45:35][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][10:45:35][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][10:45:35][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][10:45:35][attohttpc][DEBUG] trying to connect to 185.199.110.153:443
+[2023-02-21][10:45:35][attohttpc][DEBUG] successfully connected to 185.199.110.153:443, took 25ms
+[2023-02-21][10:45:36][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][10:45:36][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][10:45:36][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][10:45:36][attohttpc][DEBUG] status code 200
+[2023-02-21][10:45:59][chatgpt::app::setup][INFO] stepup
+[2023-02-21][10:45:59][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][10:45:59][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][10:45:59][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][10:45:59][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][10:45:59][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][10:45:59][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][10:45:59][attohttpc][DEBUG] trying to connect to 185.199.110.153:443
+[2023-02-21][10:45:59][attohttpc][DEBUG] successfully connected to 185.199.110.153:443, took 28ms
+[2023-02-21][10:45:59][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][10:45:59][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][10:45:59][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][10:45:59][attohttpc][DEBUG] status code 200
+[2023-02-21][10:46:04][chatgpt::app::setup][INFO] stepup
+[2023-02-21][10:46:04][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][10:46:04][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][10:46:04][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][10:46:04][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][10:46:04][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][10:46:04][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][10:46:04][attohttpc][DEBUG] trying to connect to 185.199.110.153:443
+[2023-02-21][10:46:04][attohttpc][DEBUG] successfully connected to 185.199.110.153:443, took 26ms
+[2023-02-21][10:46:05][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][10:46:05][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][10:46:05][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][10:46:05][attohttpc][DEBUG] status code 200
+[2023-02-21][11:03:52][chatgpt::app::setup][INFO] stepup
+[2023-02-21][11:03:52][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][11:03:52][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][11:03:52][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][11:03:52][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][11:03:52][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][11:03:52][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][11:03:52][attohttpc][DEBUG] trying to connect to 185.199.110.153:443
+[2023-02-21][11:03:52][attohttpc][DEBUG] successfully connected to 185.199.110.153:443, took 27ms
+[2023-02-21][11:03:52][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][11:03:52][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][11:03:52][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][11:03:52][attohttpc][DEBUG] status code 200
+[2023-02-21][11:03:59][chatgpt::app::setup][INFO] stepup
+[2023-02-21][11:03:59][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][11:03:59][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][11:03:59][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][11:03:59][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][11:03:59][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][11:03:59][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][11:03:59][attohttpc][DEBUG] trying to connect to 185.199.110.153:443
+[2023-02-21][11:03:59][attohttpc][DEBUG] successfully connected to 185.199.110.153:443, took 25ms
+[2023-02-21][11:04:00][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][11:04:00][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][11:04:00][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][11:04:00][attohttpc][DEBUG] status code 200
+[2023-02-21][18:46:10][chatgpt::app::setup][INFO] stepup
+[2023-02-21][18:46:10][chatgpt::app::setup][INFO] global_shortcut_unregister
+[2023-02-21][18:46:10][chatgpt::app::setup][INFO] stepup_tray
+[2023-02-21][18:46:10][chatgpt::app::setup][INFO] run_check_update
+[2023-02-21][18:46:10][chatgpt::utils][INFO] run_check_update: silent=false has_msg=None
+[2023-02-21][18:46:10][chatgpt::app::setup][INFO] main_window: https://chat.openai.com
+[2023-02-21][18:46:10][attohttpc][DEBUG] trying to connect to lencx.github.io:443
+[2023-02-21][18:46:10][attohttpc][DEBUG] trying to connect to 185.199.109.153:443
+[2023-02-21][18:46:10][attohttpc][DEBUG] successfully connected to 185.199.109.153:443, took 26ms
+[2023-02-21][18:46:10][attohttpc][DEBUG] GET /ChatGPT/install.json HTTP/1.1
+[2023-02-21][18:46:11][attohttpc][DEBUG] creating a length body reader
+[2023-02-21][18:46:11][attohttpc][DEBUG] creating gzip decoder
+[2023-02-21][18:46:11][attohttpc][DEBUG] status code 200
+[2023-02-21][18:47:35][chatgpt::app::gpt][INFO] download_list: chat.notes.json
+[2023-02-21][18:47:35][chatgpt::app::gpt][INFO] get_download_list: chat.notes.json
+[2023-02-21][18:47:36][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-21][18:47:36][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-21][18:47:38][chatgpt::app::gpt][INFO] download_list: chat.download.json
+[2023-02-21][18:47:38][chatgpt::app::gpt][INFO] get_download_list: chat.download.json
+[2023-02-21][18:47:39][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-21][18:47:39][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
+[2023-02-21][18:47:42][chatgpt::utils][INFO] open_file: C:\Users\hendr\.chatgpt
+[2023-02-21][18:47:55][chatgpt::app::gpt][INFO] download_list: chat.download.json
+[2023-02-21][18:47:55][chatgpt::app::gpt][INFO] get_download_list: chat.download.json
+[2023-02-21][18:47:57][tao::platform_impl::platform::event_loop::runner][WARN] NewEvents emitted without explicit RedrawEventsCleared
+[2023-02-21][18:47:57][tao::platform_impl::platform::event_loop::runner][WARN] RedrawEventsCleared emitted without explicit MainEventsCleared
