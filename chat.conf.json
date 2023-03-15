@@ -7,6 +7,7 @@
   "save_window_state": false,
   "global_shortcut": null,
   "default_origin": "https://chat.openai.com",
+  "speech_lang": "",
   "isinit": false,
   "popup_search": false,
   "main_close": true,
