@@ -1,6 +1,6 @@
 {
   "name": "ChatGPT CMD",
-  "last_updated": 1677872341375,
+  "last_updated": 1680758838382,
   "data": [
     {
       "act": "Poet",
@@ -215,6 +215,13 @@
       "tags": [
         "user-sync"
       ]
+    },
+    {
+      "act": "Merangkum ",
+      "cmd": "rangkum",
+      "enable": true,
+      "prompt": "Keluaran Anda harus menggunakan templat berikut:\n\n### Ringkasan\n\n### Fakta\n\n- Poin-poin penting\n\nTugas Anda adalah meringkas teks yang saya berikan ke dalam tujuh poin-poin utama dan mulai dengan ringkasan singkat.",
+      "tags": []
     },
     {
       "act": "Composer",
@@ -1651,6 +1658,13 @@
       ]
     },
     {
+      "act": "CodeEplanation",
+      "cmd": "code_Explanation",
+      "enable": true,
+      "prompt": "I don't know how to code, but I want to understand how this works. Explain the following code to me in a way that a non-technical person can understand. Always use Markdown with nice formatting to make it easier to follow. Organize it by sections with headers. Include references to the code as markdown code blocks in each section. The code:",
+      "tags": []
+    },
+    {
       "act": "Bahasa Indonesia",
       "cmd": "bahasa_indonesia",
       "enable": true,
@@ -1998,6 +2012,13 @@
       "tags": [
         "user-sync"
       ]
+    },
+    {
+      "act": "Id_code_explanation",
+      "cmd": "id_code_explanation",
+      "enable": true,
+      "prompt": "Saya tidak tahu cara membuat kode, tetapi saya ingin memahami cara kerjanya. Jelaskan kode berikut ini kepada saya dengan cara yang dapat dimengerti oleh orang non-teknis. Selalu gunakan Markdown dengan format yang bagus agar lebih mudah diikuti. Aturlah berdasarkan bagian dengan tajuk. Sertakan referensi ke kode sebagai blok kode penurunan harga di setiap bagian. Kode:",
+      "tags": []
     },
     {
       "act": "Prompt Generator",
