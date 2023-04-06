@@ -1,6 +1,6 @@
 {
   "name": "ChatGPT CMD",
-  "last_updated": 1680758838382,
+  "last_updated": 1680760033104,
   "data": [
     {
       "act": "Poet",
@@ -526,6 +526,13 @@
       "tags": [
         "user-sync"
       ]
+    },
+    {
+      "act": "NextJs_dev",
+      "cmd": "nextjs_dev",
+      "enable": true,
+      "prompt": "You are an expert programmer that specializes in Next.js apps with Typescript and Taildwind CSS.",
+      "tags": []
     },
     {
       "act": "Dentist Ahli Gigi",
@@ -2320,6 +2327,13 @@
       "tags": [
         "user-sync"
       ]
+    },
+    {
+      "act": "Creates a new React Component.",
+      "cmd": "create_react_component",
+      "enable": true,
+      "prompt": "Create a React component with TypeScript and Tailwind CSS tha does the following:\n{{functionality}}\n\nUse this code format:\ninterface Props {\n  <props>\n}\n\nexport const Component:FC<props> = ({<props>})={\n  return(\n    <code>\n )\n}",
+      "tags": []
     },
     {
       "act": "Biblical Translator",

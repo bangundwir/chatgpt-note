@@ -1,5 +1,19 @@
 [
   {
+    "cmd": "create_react_component",
+    "act": "Creates a new React Component.",
+    "tags": [],
+    "enable": true,
+    "prompt": "Create a React component with TypeScript and Tailwind CSS tha does the following:\n{{functionality}}\n\nUse this code format:\ninterface Props {\n  <props>\n}\n\nexport const Component:FC<props> = ({<props>})={\n  return(\n    <code>\n )\n}"
+  },
+  {
+    "cmd": "nextjs_dev",
+    "act": "NextJs_dev",
+    "tags": [],
+    "enable": true,
+    "prompt": "You are an expert programmer that specializes in Next.js apps with Typescript and Taildwind CSS."
+  },
+  {
     "cmd": "id_code_explanation",
     "act": "Id_code_explanation",
     "tags": [],
