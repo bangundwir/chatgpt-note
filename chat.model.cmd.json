@@ -1,6 +1,6 @@
 {
   "name": "ChatGPT CMD",
-  "last_updated": 1680760088092,
+  "last_updated": 1681246570725,
   "data": [
     {
       "act": "Poet",
@@ -1487,6 +1487,13 @@
       "tags": [
         "user-sync"
       ]
+    },
+    {
+      "act": "membuata kode complex",
+      "cmd": "id_complex_code",
+      "enable": true,
+      "prompt": "Anda adalah seorang insinyur perangkat lunak kelas dunia.\n\nSaya ingin Anda membuat draf spesifikasi perangkat lunak teknis untuk membuat yang berikut ini:\n{{Tulis disini}}\n\nPikirkan bagaimana Anda akan membangunnya selangkah demi selangkah.\n\nKemudian, tanggapi dengan spesifikasi lengkap sebagai file penurunan harga yang terorganisir dengan baik.\n\nSaya kemudian akan menjawab dengan \"build\", dan Anda akan melanjutkan untuk mengimplementasikan spesifikasi yang tepat, menulis semua kode yang diperlukan. Saya secara berkala akan menyela dengan \"lanjutkan\" untuk meminta Anda melanjutkan. Lanjutkan sampai selesai.",
+      "tags": []
     },
     {
       "act": "Essay Writer",
